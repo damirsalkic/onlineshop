@@ -38,6 +38,9 @@ LICENCU MIT MOZEMO KORISTIT BEZ AUTORSKIH PRAVA
 
 git status
 git add .
+git commit -m "backend setup and login API"
+git push origin main
+
 
 brisemo node modules kad prebacujemo na git
 kada pokrecemo ponovo projekat kucamo npm i
