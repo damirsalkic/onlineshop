@@ -1,0 +1,43 @@
+1. github.com - git clone _______________ unesi link sa gita
+2. npm - npm install -g
+3. node
+4. U folderu backend setujemo node.js
+
+
+BACKEND
+- inicijalizacija aplikacije npm init
+
+BIBLIOTEKE
+
+-express - npm i express -s
+-nodemon - npm i nodemon -s
+-bodyParser - npm install body_Pharser
+
+-s znaci lokalno
+-g znaci globalno 
+
+
+Ukoliko postoji problem sa pokretanje nodemon index potrebno je uraditi sljedece
+
+a) set - ExecutionPolicy RemoteSigned
+b) set - ExecutionPolicy Unrestricted
+c) get - ExecutionPolicy
+d) Exit
+
+POWER SHELL pokrenite kao administrator
+
+
+Pokretanje servera - node index
+Pokretanje nodemona - nodemon index
+
+
+Instaliranje biblioteke mongoose koja sluzi za komunikaciju sa MONGODB
+npm i mongoose -s
+
+LICENCU MIT MOZEMO KORISTIT BEZ AUTORSKIH PRAVA
+
+git status
+git add .
+
+brisemo node modules kad prebacujemo na git
+kada pokrecemo ponovo projekat kucamo npm i
